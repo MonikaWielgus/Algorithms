@@ -146,10 +146,10 @@ Output
 1 1
 35 87
 17 45
-42 brak
--10 brak
--1 brak
-0 brak
+42 there is not
+-10 there is not
+-1 there is not
+0 there is not
 1 78
 5 74
 75 89
